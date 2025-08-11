@@ -8,7 +8,7 @@
 - 💡 My programming journey began back in **6th grade**, and since then, it's been my **favorite hobby and passion**.
 - 🚀 I love building projects and experimenting with different **tech stacks** — from mobile apps to full-stack web platforms.
 - ⚡ I am a **quick learner** who can adapt to any **language or framework** with ease.
-- 🌱 Currently exploring **scalable backend systems**, **DevOps**, and **AI integrations**.
+- 🌱 Currently exploring **cyber security**, **AI Fields**, and **revision of old concepts**.
 ---
 
 ### 🛠️ Tech Stack
